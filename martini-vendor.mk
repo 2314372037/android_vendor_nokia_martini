@@ -84,17 +84,14 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/martini/proprietary/vendor/firmware/a330_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a330_pm4.fw \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b00 \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b01 \
-    vendor/nokia/martini/proprietary/vendor/firmware/adsp.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b02 \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b03 \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b04 \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b05 \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b06 \
-    vendor/nokia/martini/proprietary/vendor/firmware/adsp.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b07 \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.b08:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b08 \
-    vendor/nokia/martini/proprietary/vendor/firmware/adsp.b09:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b09 \
-    vendor/nokia/martini/proprietary/vendor/firmware/adsp.b10:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b10 \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.b11:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b11 \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.b12:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b12 \
+    vendor/nokia/martini/proprietary/vendor/firmware/adsp.b13:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.b13 \
     vendor/nokia/martini/proprietary/vendor/firmware/adsp.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/adsp.mdt \
     vendor/nokia/martini/proprietary/vendor/firmware/bcm2079x-b5_firmware.ncd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm2079x-b5_firmware.ncd \
     vendor/nokia/martini/proprietary/vendor/firmware/bcm2079x-b5_pre_firmware.ncd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm2079x-b5_pre_firmware.ncd \
